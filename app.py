@@ -1,5 +1,4 @@
 from cgitb import html
-from tkinter.ttk import Style
 import streamlit as st
 import pickle
 import pandas as pd
